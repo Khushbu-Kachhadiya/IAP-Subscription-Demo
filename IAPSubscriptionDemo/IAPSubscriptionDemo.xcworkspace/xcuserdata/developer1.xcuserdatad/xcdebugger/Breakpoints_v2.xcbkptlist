@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA42D5FF-222E-44A3-B587-3F869DE4D59C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F450F357-93B8-42C5-9EBF-0620DAD4A1F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/RevenueCatIAPViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54006734-1597-4A89-BEB7-D52B394D5EB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/RevenueCatIAPViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9541C9E6-54A2-40D6-8362-973BF387BF02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/RevenueCatIAPViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9541C9E6-54A2-40D6-8362-973BF387BF02 - cb5ff838f66dddf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;RevenueCat.Offerings&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; () in IAPSubscriptionDemo.RevenueCatIAPViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/RevenueCatIAPViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "9541C9E6-54A2-40D6-8362-973BF387BF02 - e22e47bb3a82d718"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RevenueCat.Package) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;RevenueCat.Offerings&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; () in IAPSubscriptionDemo.RevenueCatIAPViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/RevenueCatIAPViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "9541C9E6-54A2-40D6-8362-973BF387BF02 - cb5ff838f66dddf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;RevenueCat.Offerings&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; () in IAPSubscriptionDemo.RevenueCatIAPViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/RevenueCatIAPViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71BA446F-F24C-4070-8248-17CAEDA96CAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "setupSKPurchase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71BA446F-F24C-4070-8248-17CAEDA96CAA - f8e6df0a2402e742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "71BA446F-F24C-4070-8248-17CAEDA96CAA - 30e807a787817d1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.SKProduct) -&gt; Swift.Bool in closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "71BA446F-F24C-4070-8248-17CAEDA96CAA - f8e6df0a2402e742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B48A0733-8E50-4579-BB77-C33E7964002C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "setupSKPurchase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B48A0733-8E50-4579-BB77-C33E7964002C - f8e6df0a2402e4a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "B48A0733-8E50-4579-BB77-C33E7964002C - f8e6df0a2402e4a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6591806F-AB0C-4489-B049-CFCE13862994"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setupSKPurchase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6591806F-AB0C-4489-B049-CFCE13862994 - da5f8e9fb0e1b70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "6591806F-AB0C-4489-B049-CFCE13862994 - da5f8e9fb0e1b70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "912">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB6D3654-99EC-4D1F-87D4-91B020C84A9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IAPSubscriptionDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setupSKPurchase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB6D3654-99EC-4D1F-87D4-91B020C84A9F - f8e6df0a2402e65b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "EB6D3654-99EC-4D1F-87D4-91B020C84A9F - da5f8e9fb0e1b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;__C.SKProduct&gt;) -&gt; () in IAPSubscriptionDemo.ViewController.setupSKPurchase() -&gt; ()"
+                  moduleName = "IAPSubscriptionDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer1/Documents/Demo%20app/IAPSubscriptionDemo/IAPSubscriptionDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
